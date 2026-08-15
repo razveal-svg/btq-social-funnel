@@ -1,0 +1,46 @@
+{
+  "campaignId": "thesis-wave-1",
+  "name": "BTQ thesis wave — Discord-funnel CTAs",
+  "posts": [
+    {
+      "id": "thesis-hook",
+      "title": "Hook / thesis",
+      "body": "Bitcoin already works. The signatures are what age out.\n\nBTQ: 21M cap, SHA-256 PoW, Dilithium (FIPS 204) on spends.",
+      "outlets": ["x"],
+      "inviteLabel": "x-bio",
+      "intent": "curious",
+      "bridgeUrl": "https://bitcoinquantum.com",
+      "tags": ["thesis"]
+    },
+    {
+      "id": "miners-sha256",
+      "title": "Miner call",
+      "body": "Miners: no new ASIC.\n\nBTQ keeps SHA-256. ~1 min blocks, 5 BTQ subsidy, 21M cap. Point hash at the testnet pool.",
+      "outlets": ["x"],
+      "inviteLabel": "x-bio",
+      "intent": "miner",
+      "bridgeUrl": "https://pool.bitcoinquantum.com",
+      "tags": ["mining"]
+    },
+    {
+      "id": "explorer-live",
+      "title": "Explorer proof-of-life",
+      "body": "Testnet isn't a slide deck. Blocks are landing — inspect Dilithium spends on the explorer.",
+      "outlets": ["x"],
+      "inviteLabel": "x-bio",
+      "intent": "curious",
+      "bridgeUrl": "https://explorer.bitcoinquantum.com",
+      "tags": ["explorer"]
+    },
+    {
+      "id": "cta-ready",
+      "title": "Be ready before quantum is",
+      "body": "Be ready before quantum is.\n\nSpin up a testnet wallet, then verify in Discord and pick Miner / Dev / Research.",
+      "outlets": ["x"],
+      "inviteLabel": "website-main",
+      "intent": "curious",
+      "bridgeUrl": "https://bitcoinquantum.com",
+      "tags": ["cta"]
+    }
+  ]
+}

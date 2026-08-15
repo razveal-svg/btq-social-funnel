@@ -1,0 +1,74 @@
+{
+  "invites": [
+    {
+      "label": "website-main",
+      "url": "https://discord.gg/24PYSvfmsx",
+      "postVerifyDestination": "#introductions → path picker",
+      "allowedOutlets": ["x", "telegram", "linkedin"],
+      "notes": "Canonical CTA for site / Linktree / generic awareness"
+    },
+    {
+      "label": "x-bio",
+      "url": "https://discord.gg/DBC9jKwqvk",
+      "postVerifyDestination": "#introductions",
+      "allowedOutlets": ["x"],
+      "notes": "X bio, pinned thread, and organic X posts"
+    },
+    {
+      "label": "youtube",
+      "url": "https://discord.gg/UVfduDruAJ",
+      "postVerifyDestination": "#introductions",
+      "allowedOutlets": ["x", "telegram"],
+      "notes": "Video descriptions; reuse sparingly on clip posts"
+    },
+    {
+      "label": "cmc-gecko",
+      "url": "https://discord.gg/4J9TcC4n",
+      "postVerifyDestination": "#introductions",
+      "allowedOutlets": ["x", "telegram"],
+      "notes": "Listing pages only; rotate weekly if abused"
+    },
+    {
+      "label": "event-ama",
+      "url": "https://discord.gg/E6QRdxPe",
+      "postVerifyDestination": "Office Hours / Community AMA",
+      "allowedOutlets": ["x", "telegram", "linkedin"],
+      "notes": "Per-event; create a fresh invite for each AMA wave"
+    },
+    {
+      "label": "docs-help",
+      "url": "REPLACE_WITH_DISCORD_INVITE",
+      "postVerifyDestination": "#help (forum)",
+      "allowedOutlets": ["x", "telegram"],
+      "notes": "Create in Discord Server Insights; used when social points at docs friction"
+    },
+    {
+      "label": "docs-mining",
+      "url": "REPLACE_WITH_DISCORD_INVITE",
+      "postVerifyDestination": "#mining-pool + Miner role",
+      "allowedOutlets": ["x", "telegram"],
+      "notes": "Mining-guide / miner audience posts"
+    },
+    {
+      "label": "explorer-main",
+      "url": "REPLACE_WITH_DISCORD_INVITE",
+      "postVerifyDestination": "#explorer-highlights",
+      "allowedOutlets": ["x", "telegram"],
+      "notes": "Chain-is-live / explorer screenshot posts"
+    },
+    {
+      "label": "pool-main",
+      "url": "REPLACE_WITH_DISCORD_INVITE",
+      "postVerifyDestination": "#mining-pool + Miner role",
+      "allowedOutlets": ["x", "telegram"],
+      "notes": "Pool promo / hashrate call-to-action"
+    },
+    {
+      "label": "pool-support",
+      "url": "REPLACE_WITH_DISCORD_INVITE",
+      "postVerifyDestination": "#help tagged mining",
+      "allowedOutlets": ["x", "telegram"],
+      "notes": "Troubleshooting / stratum-help posts"
+    }
+  ]
+}

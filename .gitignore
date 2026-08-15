@@ -1,0 +1,8 @@
+node_modules/
+dist/
+.env
+data/outbox.jsonl
+data/queue.json
+data/scheduler.log
+*.log
+.DS_Store
